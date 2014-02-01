@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cucumber.svg</file>
+        <file>images/fungus.svg</file>
+        <file>images/greenpepper.svg</file>
+        <file>images/oregano.svg</file>
+        <file>images/oregano2.svg</file>
+        <file>images/pizza.svg</file>
+        <file>images/plainpizza.svg</file>
+        <file>images/redpepper.svg</file>
+        <file>images/salami.svg</file>
+        <file>images/tomato.svg</file>
+        <file>images/anchois.svg</file>
+        <file>images/bacon.svg</file>
+        <file>images/black_olive.svg</file>
+        <file>images/broccoli.svg</file>
+        <file>images/cheese_grated.svg</file>
+        <file>images/cheese_sliced.svg</file>
+        <file>images/green_olive.svg</file>
+        <file>images/green_pepperoni_sliced.svg</file>
+        <file>images/olive_black_sliced.svg</file>
+        <file>images/olive_green_sliced.svg</file>
+        <file>images/onion1.svg</file>
+        <file>images/onion2.svg</file>
+        <file>images/orange_pepperoni_sliced.svg</file>
+        <file>images/pineapple.svg</file>
+        <file>images/plate_round.svg</file>
+        <file>images/plate_wooden.svg</file>
+        <file>images/red_pepperoni_sliced.svg</file>
+        <file>images/wood_pattern.svg</file>
+        <file>images/trashcan.svg</file>
+        <file>images/deminish.svg</file>
+        <file>images/enlarge.svg</file>
+        <file>images/turn_left.svg</file>
+        <file>images/turn_right.svg</file>
+        <file>images/exit.svg</file>
+        <file>images/photo.svg</file>
+        <file>images/qtknilch.svg</file>
+        <file>qml/QtKnilch/ControlArea.qml</file>
+        <file>qml/QtKnilch/Ingredient.qml</file>
+        <file>qml/QtKnilch/ListOfIngredients.qml</file>
+        <file>qml/QtKnilch/main.qml</file>
+    </qresource>
+</RCC>
