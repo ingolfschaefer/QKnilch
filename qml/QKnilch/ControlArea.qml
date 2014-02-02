@@ -1,7 +1,7 @@
 import QtQuick 2.1
 
 Rectangle {
-    property ListOfControls listofcontrols: Item {
+    property DummyList listofcontrols: Item {
         children: [
             Item {
                 property url svgSource: "qrc:images/trashcan.svg"
