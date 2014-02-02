@@ -38,12 +38,13 @@
         <file>images/qtknilch.svg</file>
         <file>images/tuberling/background.svg</file>
         <file>images/tuberling/foreground.svg</file>
-        <file>qml/QtKnilch/ChooseScene.qml</file>
-        <file>qml/QtKnilch/ControlArea.qml</file>
-        <file>qml/QtKnilch/main.qml</file>
-        <file>qml/QtKnilch/Piece.qml</file>
-        <file>qml/QtKnilch/PizzaBakery.qml</file>
-        <file>qml/QtKnilch/Playground.qml</file>
-        <file>qml/QtKnilch/Tuberling.qml</file>
+        <file>qml/QKnilch/ChooseScene.qml</file>
+        <file>qml/QKnilch/ControlArea.qml</file>
+        <file>qml/QKnilch/DummyList.qml</file>
+        <file>qml/QKnilch/main.qml</file>
+        <file>qml/QKnilch/Piece.qml</file>
+        <file>qml/QKnilch/PizzaBakery.qml</file>
+        <file>qml/QKnilch/Playground.qml</file>
+        <file>qml/QKnilch/Tuberling.qml</file>
     </qresource>
 </RCC>

@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
 
     QtQuick2ApplicationViewer viewer;
-    viewer.setMainQmlFile(QStringLiteral("qml/QtKnilch/main.qml"));
+    viewer.setMainQmlFile(QStringLiteral("qml/QKnilch/main.qml"));
     viewer.showExpanded();
 
     return app.exec();
