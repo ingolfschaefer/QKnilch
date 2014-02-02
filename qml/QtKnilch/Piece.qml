@@ -6,14 +6,14 @@ Rectangle {
     property bool neverMoved
 
     Image {
-        width: playground.listofingredients.children[number].initialwidth
-        height: playground.listofingredients.children[number].initialheight
-        source: playground.listofingredients.children[number].svgSource
-        x: playground.listofingredients.children[number].initialx
-        y: playground.listofingredients.children[number].initialy
+        width: playground.listofpieces.children[number].initialwidth
+        height: playground.listofpieces.children[number].initialheight
+        source: playground.listofpieces.children[number].svgSource
+        x: playground.listofpieces.children[number].initialx
+        y: playground.listofpieces.children[number].initialy
         fillMode: Image.PreserveAspectFit
-        sourceSize.width: playground.listofingredients.children[number].initialwidth
-        sourceSize.height: playground.listofingredients.children[number].initialheight
+        sourceSize.width: playground.listofpieces.children[number].initialwidth
+        sourceSize.height: playground.listofpieces.children[number].initialheight
         scale: 1.1  // 1.2 for Nexus
         rotation: 0
 
@@ -33,7 +33,7 @@ Rectangle {
                 if (neverMoved == true) {
                     neverMoved = false
                     var anotherObject = Qt.createQmlObject(
-                                'import QtQuick 2.1;Ingredient{number:' + number.toString(
+                                'import QtQuick 2.1;Piece{number:' + number.toString(
                                     ) + ';neverMoved:true}', playground)
 
                 }

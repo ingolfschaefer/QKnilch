@@ -22,9 +22,18 @@ Rectangle {
             anchors.fill: parent
             onClicked: {
                 choosescene.visible=false
-                currentScene=Qt.createQmlObject(
+                var dummy = mapToItem(choosescene, mouse.x, mouse.y)
+                if (dummy.x<=100) {
+                     currentScene=Qt.createQmlObject(
                      'import QtQuick 2.1;PizzaBakery {id: pizzabakery;width: 1180;height: 800;z:0}',
                      maincanvas)
+                        }
+
+                if ((dummy.x>100)&&(dummy.x<=200)) {
+                            currentScene=Qt.createQmlObject(
+                            'import QtQuick 2.1;Tuberling {id: tuberling;width: 1180;height: 800;z:0}',
+                            maincanvas)
+                        }
             }
         }
     }

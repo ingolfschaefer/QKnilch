@@ -61,7 +61,9 @@ OTHER_FILES += \
     images/exit.svg \
     images/qtknilch.svg \
     images/photo.svg \
-    android/AndroidManifest.xml
+    android/AndroidManifest.xml \
+    images/tuberling/background.svg \
+    images/tuberling/foreground.svg
 
 RESOURCES += \
     resources.qrc

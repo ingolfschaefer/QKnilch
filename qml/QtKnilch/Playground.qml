@@ -5,7 +5,7 @@ Image {
     property url backgroundimage
     property url foregroundimage
     property int numberofpieces
-    property ListOfPieces listofpieces
+    property Item listofpieces
 
     source: backgroundimage
     anchors.fill: parent
