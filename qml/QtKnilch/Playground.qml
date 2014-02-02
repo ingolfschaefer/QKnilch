@@ -1,19 +1,24 @@
-import QtQuick 2.1
+import QtQuick 2.0
 
 Image {
     id: playground
-    source: "qrc:///images/wood_pattern.svg"
+    property url backgroundimage
+    property url foregroundimage
+    property int numberofpieces
+    property ListOfPieces listofpieces
+
+    source: backgroundimage
     anchors.fill: parent
     sourceSize.width: 1180
     sourceSize.height: 750
-    property ListOfIngredients listofingredients: ListOfIngredients{}
+
     property int lastz:200
     width: 1180
     height: 750
     fillMode: Image.PreserveAspectCrop
 
         Image {
-            source: "qrc:///images/plainpizza.svg"
+            source: foregroundimage
             x:  200
             y:  15
             sourceSize.width: 716
@@ -21,8 +26,8 @@ Image {
         }
 
         Repeater {
-            model: 23
-            Ingredient {number: index; neverMoved: true}
+            model: numberofpieces
+            Piece {number: index; neverMoved: true}
         }
 
         ControlArea {
@@ -35,3 +40,4 @@ Image {
 
 
 }
+

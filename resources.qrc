@@ -36,9 +36,5 @@
         <file>images/exit.svg</file>
         <file>images/photo.svg</file>
         <file>images/qtknilch.svg</file>
-        <file>qml/QtKnilch/ControlArea.qml</file>
-        <file>qml/QtKnilch/Ingredient.qml</file>
-        <file>qml/QtKnilch/ListOfIngredients.qml</file>
-        <file>qml/QtKnilch/main.qml</file>
     </qresource>
 </RCC>

@@ -1,7 +1,7 @@
 import QtQuick 2.1
 
 Rectangle {
-    id: ingredient
+    id: piece
     property int number
     property bool neverMoved
 
@@ -20,10 +20,10 @@ Rectangle {
         MouseArea {
             anchors.fill: parent
 
-            drag.target: ingredient
+            drag.target: piece
 
             onPressed: {
-                ingredient.z = playground.lastz + 50
+                piece.z = playground.lastz + 50
                 playground.lastz = playground.lastz + 50
             }
 
@@ -44,11 +44,11 @@ Rectangle {
                         parent.visible = false
                         parent.destroy()
                     }
-                    if ((dummy.y > 100) && (dummy.y < 200)) {
-                        parent.scale *= 1.4
+                    if ((dummy.y > 100) && (dummy.y < 200) && (parent.scale<5)) {
+                        parent.scale *= 1.2
                     }
-                    if ((dummy.y > 200) && (dummy.y < 300) && (parent.scale>0.2)) {
-                        parent.scale *= 0.71
+                    if ((dummy.y > 200) && (dummy.y < 300) && (parent.scale>0.3)) {
+                        parent.scale *= 0.8
                     }
                     if ((dummy.y > 300) && (dummy.y < 400)) {
                         parent.rotation += 22.5
