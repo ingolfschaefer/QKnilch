@@ -1,3 +1,4 @@
+import "qrc:/qml/QKnilch"
 import QtQuick 2.1
 
 Rectangle {
