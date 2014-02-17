@@ -5,6 +5,10 @@ Image {
     id: playground
     property url backgroundimage
     property url foregroundimage
+    property int fg_x
+    property int fg_y
+    property int fg_width
+    property int fg_height
     property int numberofpieces
     property Item listofpieces
 
@@ -20,10 +24,10 @@ Image {
 
         Image {
             source: foregroundimage
-            x:  200
-            y:  15
-            sourceSize.width: 716
-            sourceSize.height: 720
+            x:  fg_x
+            y:  fg_y
+            sourceSize.width: fg_width
+            sourceSize.height: fg_height
         }
 
         Repeater {

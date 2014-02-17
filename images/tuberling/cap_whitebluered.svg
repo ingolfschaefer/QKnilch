@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.3544pt" height="28.3465pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(2.65631 -1.75085e-08 1.19925e-08 0.986528 -155.52 3.32825)" gradientUnits="objectBoundingBox" cx="1.80282191000" cy="0.40788421000" fx="1.80282191000" fy="0.40788421000" r="0.41137706000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ababab" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient1" gradientTransform="matrix(0.936659 0 0 0.936659 -46.6335 1.43426)" gradientUnits="objectBoundingBox" x1="1.65194085000" y1="0.85779725000" x2="1.70398407000" y2="0.60082283000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffffff" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(1 0 0 0.0663507 -51.8973 0.182269)" gradientUnits="objectBoundingBox" cx="2.12085327000" cy="6.24264706000" fx="1.98373496000" fy="6.72181844000" r="0.49890300000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffffff" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="hat2" transform="translate(31.9032, 17.4488)" fill="none">
+   <path id="path9144" transform="translate(-25.9873, -16.6386)" fill="url(#gradient0)" stroke="#323232" stroke-width="0.60882753000" stroke-linecap="round" stroke-linejoin="round" d="M22.699 0C21.2569 0 20.0578 1.05507 19.9695 2.38196C9.80109 3.70818 1.97051 11.618 1.97051 21.1912C1.97051 21.5963 2.01845 21.985 2.04962 22.3822C-1.37994 25.884 -0.529019 29.795 4.77914 32.0332C11.4404 34.842 22.5721 33.9237 29.6217 29.9798C33.6796 27.7097 35.4921 24.9501 35.0412 22.4643L43.9418 22.4643C43.9733 22.0385 44.0209 21.6242 44.0209 21.1912C44.0209 11.4322 35.8505 3.38898 25.389 2.29982C25.2603 1.01032 24.1127 0 22.699 0Z"/>
+   <path id="path9160" transform="translate(-24.5841, -13.5409)" fill="url(#gradient1)" d="M21.7081 0C10.7484 0 1.86177 7.76135 1.86177 17.337C1.86177 17.7064 1.90707 18.0608 1.93651 18.4229C-1.30379 21.6157 -0.499825 25.1818 4.51541 27.2226C10.809 29.7834 21.3264 28.9461 27.987 25.3502C31.821 23.2805 33.5335 20.7642 33.1075 18.4978L41.5169 18.4978C41.5466 18.1097 41.5916 17.7318 41.5916 17.337C41.5916 7.76135 32.6678 0 21.7081 0Z"/>
+   <path id="path9150" transform="translate(-23.0255, 2.13578)" fill="url(#gradient2)" d="M40.1884 1.15786C40.1884 1.79733 31.1919 2.31572 20.0942 2.31572C8.99648 2.31572 -2.33867e-07 1.79733 0 1.15786C-2.33867e-07 0.518391 8.99648 0 20.0942 0C31.1919 0 40.1884 0.518391 40.1884 1.15786Z"/>
+   <path id="path9201" transform="translate(-21.7488, -13.6065)" fill="#cc0000" fill-rule="evenodd" d="M16.1473 0C13.3905 0.932302 9.71707 1.36343 5.38244 5.06107C1.17472 8.65044 0 16.2487 0 16.2487L6.82651 16.515C6.82651 16.515 7.87674 9.45621 11.29 5.32744C14.7032 1.19867 16.2785 0 16.1473 0Z"/>
+   <path id="path9203" transform="translate(-9.30861, -13.4689)" fill="#3465a4" fill-rule="evenodd" d="M5.19443 0C3.42072 2.73869 1.52032 7.20707 0.886854 9.65749C0.253386 12.1079 0 17.4411 0 17.4411L7.98168 17.5853C7.98168 17.5853 8.48847 11.9638 7.98168 8.21607C7.47491 4.46839 5.8279 0.144142 5.8279 0.144142Z"/>
+   <path id="path9205" transform="translate(-1.82187, -13.3368)" fill="#cc0000" fill-rule="evenodd" d="M0.0320768 0.00576757C2.35704 1.73603 4.40848 6.20588 4.95552 9.08967C5.50256 11.9734 5.63933 17.4527 5.63933 17.4527L12.751 17.5968C12.751 17.5968 12.3407 12.6944 10.5628 7.93615C9.17271 4.21593 5.63933 2.16859 3.45113 1.01509C1.26294 -0.138421 -0.241446 0.00576757 0.0320768 0.00576757Z"/>
+   <path id="path9207" transform="translate(6.13912, -11.542)" fill="#3465a4" fill-rule="evenodd" d="M0 0C1.67642 1.2107 4.29162 3.41845 5.83392 8.19001C7.29445 12.7086 7.77856 15.4542 7.77856 15.4542L10.729 15.4542C10.729 15.4542 10.0746 9.44506 7.24211 5.76862C4.76854 2.55807 0.268226 0.142435 0 0Z"/>
+  </g>
+ </g>
+</svg>

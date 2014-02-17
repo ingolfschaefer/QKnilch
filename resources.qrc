@@ -47,5 +47,10 @@
         <file>qml/QKnilch/Playground.qml</file>
         <file>qml/QKnilch/Tuberling.qml</file>
         <file>images/mirror.svg</file>
+        <file>images/tuberling/redhat.svg</file>
+        <file>images/tuberling/cap_whitebluered.svg</file>
+        <file>images/tuberling/hat_wizard.svg</file>
+        <file>images/tuberling/hat_lady.svg</file>
+        <file>images/tuberling/hat_jester.svg</file>
     </qresource>
 </RCC>

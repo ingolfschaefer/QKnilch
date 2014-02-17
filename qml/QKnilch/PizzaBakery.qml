@@ -5,6 +5,10 @@ Playground {
 
     backgroundimage: "qrc:///images/wood_pattern.svg"
     foregroundimage: "qrc:///images/plainpizza.svg"
+    fg_x: 200
+    fg_y: 15
+    fg_width: 716
+    fg_height: 720
     numberofpieces: 23
     listofpieces: Item {
         children: [

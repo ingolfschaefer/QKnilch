@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.3544pt" height="28.3465pt">
+<defs>
+  <linearGradient id="gradient0" gradientTransform="matrix(1 0 -5.55112e-17 1.06794 -51.875 1.46842)" gradientUnits="objectBoundingBox" x1="2.14519326000" y1="0.37663261000" x2="2.61056279000" y2="0.37663261000" spreadMethod="pad">
+   <stop stop-color="#ff0000" offset="0.00000000000" stop-opacity="0.00000000000"/>
+   <stop stop-color="#ff0000" offset="0.50000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ff0000" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientTransform="translate(-48, -7.84375)" gradientUnits="objectBoundingBox" x1="2.11541788000" y1="1.32883742000" x2="1.55103788000" y2="0.46872155000" spreadMethod="pad">
+   <stop stop-color="#ff0000" offset="0.00000000000" stop-opacity="0.00000000000"/>
+   <stop stop-color="#ff0000" offset="0.50000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ff0000" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(1 0 -6.93889e-18 0.209556 -50.5708 1.29644)" gradientUnits="objectBoundingBox" cx="2.19896572000" cy="1.51001968000" fx="2.19896572000" fy="1.51001968000" r="0.48937038000" spreadMethod="pad">
+   <stop stop-color="#cc0000" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#cc0000" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="hat1" transform="translate(4.66734, 17.1457)" fill="none">
+   <path id="path9006" transform="translate(-1.67826, -16.4968)" fill="#bf0000" stroke="#590000" stroke-width="0.58124632000" stroke-linecap="round" stroke-linejoin="round" d="M43.9718 6.1603C46.3871 6.6842 47.7928 9.55653 47.133 12.6201L45.0783 22.1607C48.892 24.609 51.0037 27.2209 50.5144 29.4925C49.4814 34.2893 37.3291 35.7196 23.405 32.6994C9.48085 29.6791 -0.962552 23.3476 0.0704876 18.5509C0.571719 16.2235 3.68746 14.6741 8.35292 14.0527L10.3784 4.64773C11.0382 1.58421 13.536 -0.441439 15.9513 0.0824606Z"/>
+   <path id="path9011" transform="translate(6.27115, -16.068)" fill="url(#gradient0)" d="M34.6421 5.63678C37.0534 6.1598 38.4677 9.14886 37.7784 12.3494L36.3541 18.9629C36.1005 20.1403 35.5989 21.2075 34.9505 22.0208C35.7051 22.6887 36.0506 23.3127 35.9316 23.8653C35.441 26.1432 27.0201 26.2342 17.1096 24.0845C7.19907 21.9349 -0.468286 18.3542 0.0222889 16.0763C0.152277 15.4727 0.864147 15.0199 1.99004 14.7231C1.76515 13.747 1.7329 12.6306 1.97513 11.5059L3.39943 4.89241C4.08872 1.69182 6.60683 -0.444271 9.01805 0.0787402Z"/>
+   <path id="path9053" transform="translate(-1.37884, -2.745)" fill="url(#gradient1)" d="M7.67145 3.85256C6.92673 8.58843 16.8182 14.6664 29.9674 17.5185C36.0859 18.8457 41.8349 19.243 46.3761 18.8233C41.5366 20.5847 32.8572 20.5877 23.3213 18.5192C9.45084 15.5107 -0.955471 9.21823 0.0696867 4.45811C0.56708 2.14856 3.66909 0.613033 8.3153 0Z"/>
+   <path id="path9074" transform="translate(5.96202, -3.68899)" fill="#8c0000" d="M37.5934 7.83551C38.0412 8.66219 38.2157 9.47048 38.0494 10.2424C37.1961 14.2045 27.9764 15.5911 17.4887 13.3163C7.00112 11.0415 -0.789384 5.96519 0.0639102 2.00308C0.230156 1.23115 0.721732 0.567337 1.46962 0C3.40372 3.05025 10.152 6.36861 18.5908 8.19904C27.0296 10.0295 34.5769 9.81193 37.5934 7.83551Z"/>
+   <path id="path9082" transform="translate(5.96202, -3.68899)" fill="url(#gradient2)" d="M37.5934 7.83551C38.0412 8.66219 38.2157 9.47048 38.0494 10.2424C37.1961 14.2045 27.9764 15.5911 17.4887 13.3163C7.00112 11.0415 -0.789384 5.96519 0.0639102 2.00308C0.230156 1.23115 0.721732 0.567337 1.46962 0C3.40372 3.05025 10.152 6.36861 18.5908 8.19904C27.0296 10.0295 34.5769 9.81193 37.5934 7.83551Z"/>
+  </g>
+ </g>
+</svg>
