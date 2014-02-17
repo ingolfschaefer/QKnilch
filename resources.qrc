@@ -46,5 +46,6 @@
         <file>qml/QKnilch/PizzaBakery.qml</file>
         <file>qml/QKnilch/Playground.qml</file>
         <file>qml/QKnilch/Tuberling.qml</file>
+        <file>images/mirror.svg</file>
     </qresource>
 </RCC>

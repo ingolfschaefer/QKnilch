@@ -17,6 +17,7 @@ Rectangle {
         sourceSize.height: playground.listofpieces.children[number].initialheight
         scale: 1.1  // 1.2 for Nexus
         rotation: 0
+        mirror: false
 
         MouseArea {
             anchors.fill: parent
@@ -53,17 +54,13 @@ Rectangle {
                     }
                     if ((dummy.y > 300) && (dummy.y < 400)) {
                         parent.rotation += 22.5
-                    }
-                    if ((dummy.y > 400) && (dummy.y < 500)) {
+                    }if ((dummy.y > 400) && (dummy.y < 500)) {
                         parent.rotation -= 22.5
                     }
+                    if ((dummy.y > 500) && (dummy.y < 600)) {
+                        parent.mirror = !parent.mirror
+                    }
                 }
-//                console.log("I am a number ",number.toString())
-//                console.log("Mouse x is ", dummy.x, "and y is ", dummy.y, "z is ",
-//                            ingredient.z)
-//                var dummy = mapToItem(playground, ingredient.x, ingredient.y)
-//                console.log("Image x is ", dummy.x, "and y is ", dummy.y)
-
             }
         }
     }

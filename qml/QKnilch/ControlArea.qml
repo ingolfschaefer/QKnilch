@@ -5,7 +5,7 @@ Rectangle {
     property DummyList listofcontrols: Item {
         children: [
             Item {
-                property url svgSource: "qrc:images/trashcan.svg"
+                property url svgSource: "qrc:///images/trashcan.svg"
             },
             Item {
                 property url svgSource: "qrc:///images/enlarge.svg"
@@ -18,13 +18,16 @@ Rectangle {
             },
             Item {
                 property url svgSource: "qrc:///images/turn_left.svg"
+            },
+            Item {
+                property url svgSource: "qrc:///images/mirror.svg"
             }
 
         ]
     }
 
     Repeater {
-        model: 5
+        model: 6
         Rectangle {
             x:0
             y:index*100
@@ -40,20 +43,6 @@ Rectangle {
             }
         }
 
-    }
-    Rectangle {
-        x:0
-        y:500
-        width:100
-        height:100
-
-        color: "seagreen"
-        border.color: "darkgreen"
-        Image {
-            anchors.horizontalCenter: parent.horizontalCenter
-            anchors.verticalCenter:  parent.verticalCenter
-            source: "qrc:///images/photo.svg"
-        }
     }
     Rectangle {
         x:0
