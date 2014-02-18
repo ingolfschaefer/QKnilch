@@ -1,6 +1,8 @@
 #Needed because of stupid bug in Android / iOS export
 QT += quick svg xml gui
 
+QTPLUGIN += qsvg
+
 # Add more folders to ship with the application, here
 folder_01.source = qml/QKnilch
 folder_01.target = qml
