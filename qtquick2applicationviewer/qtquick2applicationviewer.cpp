@@ -77,11 +77,28 @@ void QtQuick2ApplicationViewer::addImportPath(const QString &path)
     engine()->addImportPath(QtQuick2ApplicationViewerPrivate::adjustPath(path));
 }
 
+/*
 void QtQuick2ApplicationViewer::showExpanded()
 {
 #if defined(Q_WS_SIMULATOR) || defined(Q_OS_QNX)
     showFullScreen();
 #else
     show();
+#endif
+}
+*/
+
+void QtQuick2ApplicationViewer::showExpanded()
+{
+#if defined(MEEGO_EDITION_HARMATTAN) || defined(Q_WS_SIMULATOR)
+    showFullScreen();
+#elif defined(Q_WS_MAEMO_5) || defined(Q_OS_QNX)
+    //showMaximized();
+    showFullScreen();
+#elif defined(Q_WS_SIMULATOR) || defined(Q_OS_QNX)
+    showFullScreen();
+#else
+    //show();
+    showFullScreen();
 #endif
 }
