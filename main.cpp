@@ -11,6 +11,5 @@ int main(int argc, char *argv[])
     QtQuick2ApplicationViewer viewer;
     viewer.setMainQmlFile(QStringLiteral("qml/QKnilch/main.qml"));
     viewer.showExpanded();
-
     return app.exec();
 }

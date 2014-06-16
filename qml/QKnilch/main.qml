@@ -15,6 +15,7 @@ Rectangle {
 //            z:0
 //        }
 
+
     ChooseScene {
         id: choosescene
         anchors.horizontalCenter: parent.horizontalCenter
@@ -31,7 +32,7 @@ Rectangle {
                         }
 
                 if ((dummy.x>100)&&(dummy.x<=200)) {
-                            currentScene=Qt.createQmlObject(
+                            currentScene=Qt.createQmlObject(                    
                             'import QtQuick 2.1;Tuberling {id: tuberling;width: 1180;height: 800;z:0}',
                             maincanvas)
                         }

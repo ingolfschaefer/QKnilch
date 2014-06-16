@@ -26,6 +26,19 @@ SOURCES += main.cpp
 include(qtquick2applicationviewer/qtquick2applicationviewer.pri)
 qtcAddDeployment()
 
+# mwt: specify the icons directly, not working
+BUNDLE_DATA.files = $$PWD/iOS_BundleData/AppIcon76x76@2x.png \
+                $$PWD/iOS_BundleData/AppIcon60x60@2x.png \
+                $$PWD/iOS_BundleData/AppIcon40x40@2x.png \
+                $$PWD/iOS_BundleData/AppIcon76x76.png \
+                $$PWD/iOS_BundleData/AppIcon29x29@2x.png \
+                $$PWD/iOS_BundleData/AppIcon40x40.png \
+                $$PWD/iOS_BundleData/AppIcon29x29.png
+        QMAKE_BUNDLE_DATA += BUNDLE_DATA
+
+# mwt: copy our own plist from iOS_BundleData
+QMAKE_INFO_PLIST = $$PWD/iOS_BundleData/Info.plist
+
 OTHER_FILES += \
     images/cucumber.svg \
     images/fungus.svg \
