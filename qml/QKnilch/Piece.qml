@@ -7,15 +7,15 @@ Rectangle {
     property bool neverMoved
 
     Image {
-        width: playground.listofpieces.children[number].initialwidth
-        height: playground.listofpieces.children[number].initialheight
+        width: playground.listofpieces.children[number].initialwidth / 1024 * maincanvas.width
+        height: playground.listofpieces.children[number].initialheight / 768 * maincanvas.height
         source: playground.listofpieces.children[number].svgSource
-        x: playground.listofpieces.children[number].initialx
-        y: playground.listofpieces.children[number].initialy
+        x: playground.listofpieces.children[number].initialx / 1024 * maincanvas.width
+        y: playground.listofpieces.children[number].initialy / 768 * maincanvas.height
         fillMode: Image.PreserveAspectFit
-        sourceSize.width: playground.listofpieces.children[number].initialwidth
-        sourceSize.height: playground.listofpieces.children[number].initialheight
-        scale: 1.1  // 1.2 for Nexus
+        sourceSize.width: playground.listofpieces.children[number].initialwidth / 1024 * maincanvas.width
+        sourceSize.height: playground.listofpieces.children[number].initialheight / 768 * maincanvas.height
+        scale: 1.0
         rotation: 0
         mirror: false
 
@@ -40,24 +40,24 @@ Rectangle {
 
                 }
 
-                if (dummy.x < 100) {
-
-                    if (dummy.y < 100) {
+                if (dummy.x < maincanvas.height/7) {
+                    if (dummy.y < maincanvas.height/7) {
                         parent.visible = false
                         parent.destroy()
                     }
-                    if ((dummy.y > 100) && (dummy.y < 200) && (parent.scale<5)) {
+                    if ((dummy.y > maincanvas.height/7) && (dummy.y < 2*maincanvas.height/7) && (parent.scale<5)) {
                         parent.scale *= 1.2
                     }
-                    if ((dummy.y > 200) && (dummy.y < 300) && (parent.scale>0.3)) {
+                    if ((dummy.y > 2*maincanvas.height/7) && (dummy.y < 3*maincanvas.height/7) && (parent.scale>0.3)) {
                         parent.scale *= 0.8
                     }
-                    if ((dummy.y > 300) && (dummy.y < 400)) {
+                    if ((dummy.y > 3*maincanvas.height/7) && (dummy.y < 4*maincanvas.height/7)) {
                         parent.rotation += 22.5
-                    }if ((dummy.y > 400) && (dummy.y < 500)) {
+                    }
+                    if ((dummy.y > 4*maincanvas.height/7) && (dummy.y < 5*maincanvas.height/7)) {
                         parent.rotation -= 22.5
                     }
-                    if ((dummy.y > 500) && (dummy.y < 600)) {
+                    if ((dummy.y > 5*maincanvas.height/7) && (dummy.y < 6*maincanvas.height/7)) {
                         parent.mirror = !parent.mirror
                     }
                 }

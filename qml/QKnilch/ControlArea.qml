@@ -30,9 +30,9 @@ Rectangle {
         model: 6
         Rectangle {
             x:0
-            y:index*100
-            width:100
-            height:100
+            y:index*maincanvas.height/7
+            width:maincanvas.height/7
+            height:maincanvas.height/7
 
             color: "seagreen"
             border.color: "darkgreen"
@@ -46,9 +46,9 @@ Rectangle {
     }
     Rectangle {
         x:0
-        y:600
-        width:100
-        height:100
+        y:6*maincanvas.height/7
+        width:maincanvas.height/7
+        height:maincanvas.height/7
 
         color: "seagreen"
         border.color: "darkgreen"

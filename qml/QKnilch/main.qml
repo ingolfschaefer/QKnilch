@@ -4,16 +4,9 @@ import QtQuick 2.1
 
 Rectangle {
     id: maincanvas
-    width: 1280
-    height: 800
+    width: parent.width
+    height: parent.height
     property Item currentScene
-
-//    PizzaBakery {
-//            id: pizzabakery
-//            width: 1180
-//            height: 800
-//            z:0
-//        }
 
 
     ChooseScene {
@@ -25,15 +18,15 @@ Rectangle {
             onClicked: {
                 choosescene.visible=false
                 var dummy = mapToItem(choosescene, mouse.x, mouse.y)
-                if (dummy.x<=100) {
+                if (dummy.x<=maincanvas.height*0.1) {
                      currentScene=Qt.createQmlObject(
-                     'import QtQuick 2.1;PizzaBakery {id: pizzabakery;width: 1180;height: 800;z:0}',
+                     'import QtQuick 2.1;PizzaBakery {id: pizzabakery;width: maincanvas.width*0.9;height: maincanvas.height;z:0}',
                      maincanvas)
                         }
 
-                if ((dummy.x>100)&&(dummy.x<=200)) {
+                if ((dummy.x>maincanvas.height*0.1)&&(dummy.x<=maincanvas.height*0.2)) {
                             currentScene=Qt.createQmlObject(                    
-                            'import QtQuick 2.1;Tuberling {id: tuberling;width: 1180;height: 800;z:0}',
+                            'import QtQuick 2.1;Tuberling {id: tuberling;width: maincanvas.width*0.9;height: maincanvas.height;z:0}',
                             maincanvas)
                         }
             }
