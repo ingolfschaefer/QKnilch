@@ -44,7 +44,6 @@
         <file>qml/QKnilch/main.qml</file>
         <file>qml/QKnilch/Piece.qml</file>
         <file>qml/QKnilch/PizzaBakery.qml</file>
-        <file>qml/QKnilch/Playground.qml</file>
         <file>qml/QKnilch/Tuberling.qml</file>
         <file>images/mirror.svg</file>
         <file>images/tuberling/redhat.svg</file>
@@ -52,5 +51,6 @@
         <file>images/tuberling/hat_wizard.svg</file>
         <file>images/tuberling/hat_lady.svg</file>
         <file>images/tuberling/hat_jester.svg</file>
+        <file>qml/QKnilch/Playground.qml</file>
     </qresource>
 </RCC>

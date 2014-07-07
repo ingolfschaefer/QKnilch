@@ -14,18 +14,18 @@ Image {
 
     source: backgroundimage
     anchors.fill: parent
-    sourceSize.width: 1180
-    sourceSize.height: 750
+    sourceSize.width: maincanvas.width-(maincanvas.height/7)
+    sourceSize.height: maincanvas.height
 
     property int lastz:200
-    width: 1180
-    height: 750
+    width: maincanvas.width-(maincanvas.height/7)
+    height: maincanvas.height
     fillMode: Image.PreserveAspectCrop
 
         Image {
             source: foregroundimage
-            x:  fg_x
-            y:  fg_y
+            anchors.horizontalCenter: parent.horizontalCenter
+            anchors.verticalCenter:  parent.verticalCenter
             sourceSize.width: fg_width
             sourceSize.height: fg_height
         }
@@ -39,7 +39,7 @@ Image {
             id: maincontrols
             x: 0
             y: 0
-            width:100
+            width:maincanvas.height/7
 
         }
 
