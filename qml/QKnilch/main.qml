@@ -1,13 +1,15 @@
 import "qrc:/qml/QKnilch"
 import QtQuick 2.1
-//import QtQuick.Layouts 1.1
+
 
 Rectangle {
     id: maincanvas
-    width: parent.width
-    height: parent.height
+    // width: parent.width // gives type error
+    // height: parent.height // gives type error
     property Item currentScene
+    property int layoutMode
 
+    layoutMode: 0 // turn to 1 to get layout information for pieces
 
     ChooseScene {
         id: choosescene
