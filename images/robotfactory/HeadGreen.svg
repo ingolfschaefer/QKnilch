@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.0394pt" height="9.92128pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(0.00569407 0.819918 -1.21166 0.00841464 71.3124 -47.7272)" gradientUnits="objectBoundingBox" cx="3.82309823000" cy="4.29491195000" fx="3.82309823000" fy="4.29491195000" r="0.40392258000" spreadMethod="pad">
+   <stop stop-color="#3ad833" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#024f00" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient1" gradientTransform="translate(-111.575, -56.2612)" gradientUnits="objectBoundingBox" x1="11.34195899000" y1="40.00275123000" x2="11.34195899000" y2="38.05906484000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffffff" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient2" gradientTransform="translate(-113.784, -56.4316)" gradientUnits="objectBoundingBox" x1="39.34173027000" y1="50.22289654000" x2="39.99281064000" y2="50.22289654000" spreadMethod="pad">
+   <stop stop-color="#00ff00" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00ff00" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient3" gradientTransform="translate(-113.784, -56.4316)" gradientUnits="objectBoundingBox" x1="39.34173027000" y1="50.22289654000" x2="39.99281064000" y2="50.22289654000" spreadMethod="pad">
+   <stop stop-color="#00ff00" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00ff00" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </linearGradient>
+ </defs>
+<g id="layer0">
+  <g id="headGreen" transform="translate(-2.625, -2.625)" fill="none">
+   <rect id="rect6330" transform="translate(2.625, 2.625)" fill="url(#gradient0)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="13.03939266800pt" height="9.92127703000pt" rx="6.51969554194pt" ry="2.17517933372pt"/>
+   <rect id="rect6334" transform="translate(5.52091, 6.34165)" fill="#000000" stroke="url(#gradient1)" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="8.55475389723pt" height="1.16799736065pt" rx="0.45222844172pt" ry="0.33346032144pt"/>
+   <rect id="rect6346" transform="translate(7.7083, 6.51037)" fill="url(#gradient2)" width="2.29310078721pt" height="0.89888346627pt" rx="0.18146842227pt" ry="0.18142627332pt"/>
+   <rect id="rect6360" transform="matrix(-1 0 0 1 14.5094 6.51037)" fill="url(#gradient3)" width="2.29310078721pt" height="0.89888346627pt" rx="0.18146842227pt" ry="0.18142627332pt"/>
+  </g>
+ </g>
+</svg>

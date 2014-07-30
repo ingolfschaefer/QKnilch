@@ -52,5 +52,38 @@
         <file>images/tuberling/hat_lady.svg</file>
         <file>images/tuberling/hat_jester.svg</file>
         <file>qml/QKnilch/Playground.qml</file>
+        <file>images/robotfactory/AntennaLeft.svg</file>
+        <file>images/robotfactory/AntennaRight.svg</file>
+        <file>images/robotfactory/Arm1.svg</file>
+        <file>images/robotfactory/Arm2.svg</file>
+        <file>images/robotfactory/Background.svg</file>
+        <file>images/robotfactory/CapBlack.svg</file>
+        <file>images/robotfactory/ClawBlue.svg</file>
+        <file>images/robotfactory/ClawGreen.svg</file>
+        <file>images/robotfactory/Console.svg</file>
+        <file>images/robotfactory/Foreground.svg</file>
+        <file>images/robotfactory/HeadBlue.svg</file>
+        <file>images/robotfactory/HeadGlasses.svg</file>
+        <file>images/robotfactory/HeadGreen.svg</file>
+        <file>images/robotfactory/HeadGrey.svg</file>
+        <file>images/robotfactory/HeadRed.svg</file>
+        <file>images/robotfactory/JointGreen.svg</file>
+        <file>images/robotfactory/JointGreen2.svg</file>
+        <file>images/robotfactory/JointGrey.svg</file>
+        <file>images/robotfactory/JointRed.svg</file>
+        <file>images/robotfactory/LeftEye.svg</file>
+        <file>images/robotfactory/LeftRocket.svg</file>
+        <file>images/robotfactory/NeckGrey.svg</file>
+        <file>images/robotfactory/PieceBlue.svg</file>
+        <file>images/robotfactory/PieceGreen.svg</file>
+        <file>images/robotfactory/PieceGrey.svg</file>
+        <file>images/robotfactory/PieceRed.svg</file>
+        <file>images/robotfactory/RightEye.svg</file>
+        <file>images/robotfactory/RightRocket.svg</file>
+        <file>images/robotfactory/ThingieGreen.svg</file>
+        <file>images/robotfactory/TorsoBlau.svg</file>
+        <file>images/robotfactory/TorsoGreen.svg</file>
+        <file>images/robotfactory/TorsoRed.svg</file>
+        <file>qml/QKnilch/RobotFactory.qml</file>
     </qresource>
 </RCC>

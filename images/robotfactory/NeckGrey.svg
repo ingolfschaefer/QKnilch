@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.0394pt" height="7.65356pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(0.575101 0.0225549 -0.0236976 0.604238 -87.7638 -111.38)" gradientUnits="objectBoundingBox" cx="25.30848462000" cy="28.81240725000" fx="25.30848462000" fy="28.81240725000" r="0.36576006000" spreadMethod="pad">
+   <stop stop-color="#fafe00" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient1" gradientTransform="matrix(0.575101 0.0225549 -0.0236976 0.604238 -87.7638 -111.38)" gradientUnits="objectBoundingBox" cx="25.30848462000" cy="28.81240725000" fx="25.30848462000" fy="28.81240725000" r="0.36576006000" spreadMethod="pad">
+   <stop stop-color="#fafe00" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient2" gradientTransform="translate(-159.275, -182.039)" gradientUnits="objectBoundingBox" x1="10.03663958000" y1="19.46270299000" x2="10.70386772000" y2="19.46270299000" spreadMethod="reflect">
+   <stop stop-color="#eeeeee" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient3" gradientTransform="matrix(0.0171816 0.749624 -1.6326 0.0374237 302.082 -126.71)" gradientUnits="objectBoundingBox" cx="10.16309099000" cy="28.26572660000" fx="10.16309099000" fy="28.26572660000" r="0.47040851000" spreadMethod="pad">
+   <stop stop-color="#eeeeee" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="headEyes" transform="translate(155.734, 180.436)" fill="none">
+   <path id="path6826" transform="translate(2.53477, 2.62509)" fill="#630008" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0.743712C2.44176 0.367607 4.59912 -0.348677 7.8459 0.238115C8.5586 0.200017 9.17914 0.418447 9.57965 1.24931C9.82365 0.397301 10.5199 0.277629 11.1371 0.0299281C16.0542 -0.160885 17.1898 0.605095 19.512 1.07086L10.373 3.74755Z"/>
+   <path id="path6824" transform="translate(2.65377, 3.31371)" fill="#1a1a1a" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M8.93556 4.62726C6.09833 4.8821 0.279393 9.69433 0 0.171763C3.11524 0.13811 6.23047 -0.306873 9.34572 1.9012C12.8466 -0.565948 16.1228 -0.10734 19.3946 0.406263C18.33 9.46513 13.0822 4.76215 10.3125 4.62726C9.85353 3.91605 9.39454 4.01107 8.93556 4.62726Z"/>
+   <path id="path6810" transform="translate(3.22658, 3.97941)" fill="url(#gradient0)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M6.71024 2.59085C6.50397 3.53587 4.83933 3.97513 2.99217 3.57195C1.14502 3.16878 -0.185182 2.07584 0.0210879 1.13081C0.22736 0.185778 1.89199 -0.253481 3.73914 0.149695C5.58631 0.552874 6.91651 1.64581 6.71024 2.59085Z"/>
+   <path id="path6820" transform="translate(14.8178, 3.96613)" fill="url(#gradient1)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.0172373 2.50272C0.204012 3.4518 1.85925 3.92523 3.71432 3.56015C5.56938 3.19509 6.9218 2.12976 6.73502 1.18069C6.54825 0.231607 4.89301 -0.241825 3.03795 0.123245C1.18288 0.488316 -0.169538 1.55364 0.0172373 2.50272Z"/>
+  </g>
+  <g id="base1" transform="translate(-2.625, -2.625)" fill="none">
+   <rect id="rect6651" transform="translate(2.625, 2.625)" fill="url(#gradient2)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="13.03939266800pt" height="7.65355656600pt" rx="6.51969633400pt" ry="2.80918295021pt"/>
+   <path id="path6663" transform="translate(2.83131, 2.72642)" fill="url(#gradient3)" d="M15.7435 3.37467C15.7455 5.23821 12.2206 6.74933 7.87176 6.74933C3.52293 6.74933 -0.00194406 5.23821 8.04429e-07 3.37467C-0.00194406 1.51114 3.52293 0 7.87176 0C12.2206 0 15.7455 1.51114 15.7435 3.37467Z"/>
+  </g>
+ </g>
+</svg>

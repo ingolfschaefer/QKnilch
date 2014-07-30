@@ -31,6 +31,11 @@ Rectangle {
                             'import QtQuick 2.1;Tuberling {id: tuberling;width: maincanvas.width*0.9;height: maincanvas.height;z:0}',
                             maincanvas)
                         }
+                if ((dummy.x>maincanvas.height*0.2)&&(dummy.x<=maincanvas.height*0.3)) {
+                            currentScene=Qt.createQmlObject(
+                            'import QtQuick 2.1;RobotFactory {id: robotfactory;width: maincanvas.width*0.9;height: maincanvas.height;z:0}',
+                            maincanvas)
+                        }
             }
         }
     }

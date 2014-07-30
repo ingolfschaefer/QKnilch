@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9.63781pt" height="7.93702pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="translate(-29.0644, -96.5405)" gradientUnits="objectBoundingBox" cx="5.31215451000" cy="16.79124382000" fx="5.31215451000" fy="16.79124382000" r="0.36857647000" spreadMethod="pad">
+   <stop stop-color="#00b8ff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00114f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="clawBlue1" transform="translate(-2.625, -2.62632)" fill="none">
+   <path id="path14797" transform="translate(5.54058, 6.31801)" fill="#002a69" fill-rule="evenodd" stroke="#000000" stroke-width="0.16462079000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0.374919C2.28217 0.993534 4.65947 1.87891 7.67271 1.42573C5.05125 1.17219 3.27687 0.624792 1.67975 0C1.42978 0.353843 0.668191 0.343948 0 0.374919Z"/>
+   <path id="path14799" transform="translate(5.61066, 6.91761)" fill="#006fb2" fill-rule="evenodd" stroke="#000000" stroke-width="0.16462079000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0.801848C2.35247 1.59434 4.82455 2.8219 7.81697 1.74948C5.15567 1.60171 3.32068 0.874724 1.65721 0C1.43726 0.616593 0.669796 0.680036 0 0.801848Z"/>
+   <path id="path14801" transform="translate(2.625, 4.74592)" fill="url(#gradient0)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M2.76621 5.53484C4.29382 5.53524 5.53242 4.2961 5.53242 2.76743C5.53242 1.23873 4.29382 -0.000399136 2.76621 9.64432e-08C1.23859 -0.000399136 0 1.23873 0 2.76743C0 4.2961 1.23859 5.53524 2.76621 5.53484Z"/>
+   <path id="path14803" transform="translate(5.88146, 2.62632)" fill="#006fb2" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 2.51537C2.64554 1.05772 5.4256 -1.20016 8.79081 0.772358C5.79797 1.04416 3.73437 2.38133 1.86365 3.99024C1.61631 2.85613 0.753234 2.73944 0 2.51537Z"/>
+   <path id="path14805" transform="translate(5.58844, 8.55736)" fill="#006fb2" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 1.47486C2.64553 2.93251 5.4256 5.19039 8.79081 3.21788C5.79795 2.94607 3.73436 1.6089 1.86365 0C1.6163 1.13411 0.753229 1.2508 0 1.47486Z"/>
+  </g>
+ </g>
+</svg>

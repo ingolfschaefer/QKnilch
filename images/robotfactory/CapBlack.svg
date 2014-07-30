@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9.35435pt" height="8.22049pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(0.00844427 0.423903 -0.784051 0.0156185 147.429 -81.4655)" gradientUnits="objectBoundingBox" cx="17.51721281000" cy="18.49277557000" fx="17.51721281000" fy="18.49277557000" r="0.36650098000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient1" gradientTransform="matrix(0.00844427 0.423903 -0.784051 0.0156185 147.429 -81.4694)" gradientUnits="objectBoundingBox" cx="17.51722370000" cy="36.94527707000" fx="17.51722370000" fy="36.94527707000" r="0.45346637000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(0.00844427 0.423903 -0.784051 0.0156185 147.429 -81.4694)" gradientUnits="objectBoundingBox" cx="17.51722370000" cy="36.94527707000" fx="17.51722370000" fy="36.94527707000" r="0.45346637000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#000000" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="foot" transform="translate(-0.625, -0.625)" fill="none">
+   <path id="path6726" transform="translate(0.625, 7.98848)" fill="#333333" d="M11.6929 1.45606C11.6929 2.26022 9.07538 2.91213 5.84646 2.91213C2.61755 2.91213 -1.92458e-07 2.26022 0 1.45606C-1.92458e-07 0.651901 2.61755 0 5.84646 0C9.07538 0 11.6929 0.651901 11.6929 1.45606Z"/>
+   <path id="path6724" transform="translate(0.625, 7.46252)" fill="#000000" d="M11.6929 1.45606C11.6929 2.26022 9.07538 2.91213 5.84646 2.91213C2.61755 2.91213 -1.92458e-07 2.26022 0 1.45606C-1.92458e-07 0.651901 2.61755 0 5.84646 0C9.07538 0 11.6929 0.651901 11.6929 1.45606Z"/>
+   <path id="path6732" transform="translate(4.49692, 0.625)" fill="url(#gradient0)" d="M4.35126 2.33336C4.35126 3.62203 3.37719 4.66671 2.17563 4.66671C0.974065 4.66671 0 3.62203 0 2.33336C0 1.04468 0.974065 0 2.17563 0C3.37719 0 4.35126 1.04468 4.35126 2.33336Z"/>
+   <path id="path6728" transform="translate(4.05925, 2.38023)" fill="url(#gradient1)" d="M0 2.64178C0.00115287 1.18148 1.22103 -0.001355 2.72451 1.16501e-06C4.22799 0.00135733 5.4456 1.18639 5.44396 2.64669"/>
+   <path id="path6720" transform="translate(1.32527, 3.87234)" fill="url(#gradient2)" d="M0 5.09862C0.00222503 2.28024 2.35657 -0.00261514 5.25828 2.24846e-06C8.15999 0.00261963 10.51 2.28972 10.5068 5.1081"/>
+  </g>
+ </g>
+</svg>

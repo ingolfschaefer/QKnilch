@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.1575pt" height="8.50395pt">
+<defs>
+  <linearGradient id="gradient0" gradientTransform="translate(-97.6965, -72.1792)" gradientUnits="objectBoundingBox" x1="13.22607906000" y1="9.43890749000" x2="13.22669552000" y2="10.02823760000" spreadMethod="reflect">
+   <stop stop-color="#ffb8ba" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#b6000f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientTransform="matrix(0.85155 0 0 1.00181 -73.9377 -58.1611)" gradientUnits="objectBoundingBox" x1="16.95659826000" y1="5.76769850000" x2="16.95659826000" y2="6.49250050000" spreadMethod="reflect">
+   <stop stop-color="#00b8ff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00114f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(-0.0177228 7.54737 -1.9483 -0.00265752 125.564 -656.447)" gradientUnits="objectBoundingBox" cx="35.19036329000" cy="6.97016800000" fx="35.19036329000" fy="6.97016800000" r="0.09037678000" spreadMethod="pad">
+   <stop stop-color="#001452" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#001452" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient3" gradientTransform="matrix(1.77014 0 0 0.479639 -153.696 -28.4109)" gradientUnits="objectBoundingBox" x1="8.15721892000" y1="13.55703611000" x2="8.15721892000" y2="15.26069085000" spreadMethod="reflect">
+   <stop stop-color="#00b8ff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00114f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient4" gradientTransform="matrix(1 0 0 1.01375 -67.3031 -60.9164)" gradientUnits="objectBoundingBox" cx="10.72857138000" cy="9.58733647000" fx="10.72857138000" fy="9.58733647000" r="0.36458928000" spreadMethod="pad">
+   <stop stop-color="#00b8ff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00114f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient5" gradientTransform="matrix(-0.451882 0.00555646 -0.00952306 -0.774467 49.451 48.3749)" gradientUnits="objectBoundingBox" cx="7.68484277000" cy="13.84155998000" fx="7.68484277000" fy="13.84155998000" r="0.46285455000" spreadMethod="pad">
+   <stop stop-color="#001452" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#001452" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient6" gradientTransform="matrix(-0.0750374 8.40871 -2.82632 -0.0228704 186.035 -730.769)" gradientUnits="objectBoundingBox" cx="20.08755811000" cy="6.52928327000" fx="20.08755811000" fy="6.52928327000" r="0.08010646000" spreadMethod="pad">
+   <stop stop-color="#001452" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#001452" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <rect id="blockRed" transform="matrix(0 0 0 1 0 0)" fill="url(#gradient0)" stroke="#1a1a1a" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="0.00000100000pt" height="6.23623127600pt" rx="0.00000014596pt" ry="0.90794744673pt"/>
+  <g id="armBlue2" transform="translate(-2.56762, -2.625)" fill="none">
+   <rect id="rect2830" transform="translate(2.62503, 2.625)" fill="url(#gradient1)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.24584900953pt" height="8.50395174000pt" rx="2.12292450477pt" ry="1.78765152150pt"/>
+   <rect id="rect2832" transform="translate(5.66171, 3.41576)" fill="url(#gradient2)" width="1.98694878392pt" height="7.28479146568pt" rx="0.82831274866pt" ry="1.90011038499pt"/>
+   <rect id="rect2836" transform="matrix(-1 0 0 1 17.483 5.86387)" fill="url(#gradient3)" stroke="#000000" stroke-width="0.24940418000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="8.82594381999pt" height="3.61791687270pt" rx="1.04380969716pt" ry="1.77116179075pt"/>
+   <path id="path2834" transform="translate(14.8771, 4.32962)" fill="url(#gradient4)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M3.94373 7.68792C6.12163 7.68845 7.88745 5.96729 7.88745 3.84396C7.88745 1.72062 6.12163 -0.000528498 3.94373 1.21734e-07C1.76582 -0.000528498 0 1.72062 0 3.84396C0 5.96729 1.76582 7.68845 3.94373 7.68792Z"/>
+   <rect id="rect2846" transform="matrix(-1 0 0 1 17.483 5.86387)" fill="url(#gradient5)" width="8.82594381999pt" height="3.61791687270pt" rx="1.01929028042pt" ry="1.77116179075pt"/>
+   <rect id="rect3622" transform="translate(2.56762, 2.72798)" fill="url(#gradient6)" width="3.47428692579pt" height="7.77539209422pt" rx="1.53426415030pt" ry="1.59359565448pt"/>
+  </g>
+ </g>
+</svg>

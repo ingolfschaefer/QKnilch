@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6.23623pt" height="7.93702pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="translate(-29.0644, -96.5405)" gradientUnits="objectBoundingBox" cx="5.31215451000" cy="16.79124382000" fx="5.31215451000" fy="16.79124382000" r="0.36857647000" spreadMethod="pad">
+   <stop stop-color="#3ad833" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#024f00" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="handGreenRight" transform="translate(-2.61781, -2.62502)" fill="none">
+   <path id="path3093" transform="translate(5.38564, 7.34128)" fill="url(#gradient0)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.715882 4.44219C1.66953 5.45892 3.21599 5.45936 4.16964 4.44315C5.1233 3.42694 5.12289 1.77905 4.16874 0.762839C3.21508 -0.253906 1.66863 -0.254334 0.714975 0.76188C-0.238676 1.77809 -0.238276 3.42597 0.715882 4.44219Z"/>
+   <path id="path3894" transform="translate(7.07215, 4.95951)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.393962 0L0.531525 3.51502C0.306702 3.09975 0.12462 3.16873 0.0475259 3.17275L0 0.941223"/>
+   <path id="path3882" transform="translate(3.29649, 8.91424)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0.583881L2.79704 2.19835C2.46611 1.54499 2.61004 1.2629 2.85338 1.05854L1.03846 0"/>
+   <path id="path3886" transform="translate(8.17199, 4.88984)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.456398 0L0.730511 3.44777C0.418738 2.86685 0.27314 3.16771 0.183028 3.17695L0 0.704002"/>
+   <path id="path3095" transform="translate(2.61781, 5.13651)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.957234 5.09417C-0.156884 3.67003 -0.639971 1.6749 1.43334 0C1.07269 1.82893 1.51096 3.05789 2.33902 4.44213C2.05061 4.84887 1.80378 4.94717 0.957234 5.09417Z"/>
+   <path id="path3896" transform="translate(4.44965, 3.079)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M3.82343 2.1073C2.68267 0.487253 1.14665 -0.760085 0 0.543967C1.36176 0.925295 2.31604 1.8271 3.41016 3.16002C3.70101 3.04733 3.7611 2.85211 3.82343 2.1073Z"/>
+   <path id="path3888" transform="translate(6.42215, 2.62502)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M2.49305 2.23073C2.07161 0.766384 1.24311 -0.509411 0 0.203605C0.936975 0.794851 1.41623 1.68198 1.88217 2.92189C2.13654 2.90352 2.23714 2.77161 2.49305 2.23073Z"/>
+   <path id="path3890" transform="translate(9.46241, 6.09933)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.950689 0L0.481591 4.14744C0.253263 3.43011 0.102064 3.32907 0 3.31108L0.299976 0.611308"/>
+   <path id="path3892" transform="translate(8.47029, 3.28456)" fill="#2c6c2c" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.70295 2.61803C1.59577 1.0316 1.12685 -0.424855 0 0.114375C0.667511 0.8784 0.91474 1.87556 1.0943 3.23641C1.30433 3.25832 1.40748 3.13773 1.70295 2.61803Z"/>
+  </g>
+ </g>
+</svg>

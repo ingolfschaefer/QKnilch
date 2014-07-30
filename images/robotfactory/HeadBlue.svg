@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.3071pt" height="8.22049pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(-0.00565312 -0.474404 0.612299 -0.00730441 -27.1141 35.744)" gradientUnits="objectBoundingBox" cx="3.80198051000" cy="9.33028573000" fx="3.80198051000" fy="9.33028573000" r="0.46901553000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffffff" offset="0.31428600000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffffff" offset="1.00000000000" stop-opacity="0.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient1" gradientTransform="translate(-52.6192, -61.1739)" gradientUnits="objectBoundingBox" x1="3.82684725000" y1="7.31320838000" x2="4.52231354000" y2="7.31320838000" spreadMethod="reflect">
+   <stop stop-color="#eeeeee" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(1.14667 0.231959 -0.0741837 0.36672 -55.1581 -30.7037)" gradientUnits="objectBoundingBox" cx="2.94013289000" cy="7.82394409000" fx="2.94013289000" fy="7.82394409000" r="0.47577614000" spreadMethod="pad">
+   <stop stop-color="#00b8ff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00114f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="headBlue" transform="translate(-2.625, -2.625)" fill="none">
+   <path id="path14930" transform="translate(3.79201, 6.57357)" fill="#000000" stroke="url(#gradient0)" stroke-width="0.25862533000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M16.732 3.02745C16.732 4.69946 12.9864 6.05489 8.36599 6.05489C3.74558 6.05489 0 4.69946 0 3.02745C0 1.35544 3.74558 0 8.36599 0C12.9864 0 16.732 1.35544 16.732 3.02745Z"/>
+   <rect id="rect14914" transform="translate(4.48042, 4.35865)" fill="url(#gradient1)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="12.07706888060pt" height="6.80055749050pt" rx="5.86986020651pt" ry="2.78073072082pt"/>
+   <rect id="rect14918" transform="translate(5.36596, 5.22522)" fill="#ffffff" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="10.35659388970pt" height="6.14031064405pt" rx="5.09395950535pt" ry="1.79035717576pt"/>
+   <path id="path14920" transform="translate(2.625, 2.625)" fill="url(#gradient2)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M19.1339 3.13368C19.1347 4.86429 14.8512 6.26736 9.56697 6.26736C4.28273 6.26736 -0.000769366 4.86429 1.03652e-07 3.13368C-0.000769366 1.40307 4.28273 0 9.56697 0C14.8512 0 19.1347 1.40307 19.1339 3.13368Z"/>
+   <path id="path14926" transform="translate(8.14899, 10.3834)" fill="#000000" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.93194 1.04434C1.93194 1.54483 1.60353 1.97495 1.14899 2.06976C0.694459 2.16456 0.24162 1.89739 0.0694231 1.43282C-0.102775 0.968248 0.0540862 0.43691 0.443381 0.166104C0.832676 -0.1047 1.34494 -0.0388251 1.66463 0.323151L0.966023 1.04434Z"/>
+   <path id="path14928" transform="translate(13.5887, 10.4247)" fill="#000000" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.93194 1.04434C1.93194 1.54483 1.60353 1.97495 1.14899 2.06976C0.694459 2.16456 0.24162 1.89739 0.0694231 1.43282C-0.102775 0.968248 0.0540862 0.43691 0.443381 0.166104C0.832676 -0.1047 1.34494 -0.0388251 1.66463 0.323151L0.966023 1.04434Z"/>
+  </g>
+ </g>
+</svg>

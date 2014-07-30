@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8.50395pt" height="7.08663pt">
+<defs>
+  <linearGradient id="gradient0" gradientTransform="translate(-97.6965, -72.1792)" gradientUnits="objectBoundingBox" x1="13.22607906000" y1="9.43890749000" x2="13.22669552000" y2="10.02823760000" spreadMethod="reflect">
+   <stop stop-color="#ffb8ba" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#b6000f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientTransform="matrix(1.83338 0 0 0.58975 -179.115 -42.5678)" gradientUnits="objectBoundingBox" x1="9.30569291000" y1="14.06975594000" x2="9.29925088000" y2="15.16359147000" spreadMethod="reflect">
+   <stop stop-color="#3ad833" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#024f00" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient2" gradientTransform="translate(-97.6965, -72.1792)" gradientUnits="objectBoundingBox" x1="17.06089383000" y1="8.29763563000" x2="17.04908311000" y2="8.94272491000" spreadMethod="reflect">
+   <stop stop-color="#3ad833" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#024f00" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+ </defs>
+<g id="layer0">
+  <rect id="blockRed" transform="matrix(0 0 0 1 0 0)" fill="url(#gradient0)" stroke="#1a1a1a" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="0.00000100000pt" height="6.23623127600pt" rx="0.00000014596pt" ry="0.90794744673pt"/>
+  <g id="blockGreen" transform="translate(-2.625, -2.625)" fill="none">
+   <rect id="rect14552" transform="translate(2.625, 4.52206)" fill="url(#gradient1)" stroke="#1a1a1a" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="8.50395174000pt" height="4.17933647089pt" rx="0.58721580831pt" ry="0.53810267598pt"/>
+   <rect id="rect14532" transform="translate(4.94965, 2.625)" fill="url(#gradient2)" stroke="#1a1a1a" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="4.63839492913pt" height="7.08662645000pt" rx="0.87331156597pt" ry="0.91242532534pt"/>
+  </g>
+ </g>
+</svg>

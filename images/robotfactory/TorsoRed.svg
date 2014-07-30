@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.0945pt" height="25.7953pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(-0.00424486 0.198288 -1.01324 -0.00756162 110.591 -46.4854)" gradientUnits="objectBoundingBox" cx="11.48079881000" cy="22.90962086000" fx="11.48079881000" fy="22.90962086000" r="0.70138310000" spreadMethod="pad">
+   <stop stop-color="#c09495" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#630008" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient1" gradientTransform="matrix(-0.00424486 0.198288 -1.01324 -0.00756162 110.591 -46.4854)" gradientUnits="objectBoundingBox" cx="11.48079881000" cy="22.90962086000" fx="11.48079881000" fy="22.90962086000" r="0.70138310000" spreadMethod="pad">
+   <stop stop-color="#c09495" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#630008" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(-0.00424486 0.198288 -1.01324 -0.00756162 110.591 -46.4854)" gradientUnits="objectBoundingBox" cx="11.48079881000" cy="22.90962086000" fx="11.48079881000" fy="22.90962086000" r="0.70138310000" spreadMethod="pad">
+   <stop stop-color="#c09495" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#630008" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient3" gradientTransform="matrix(-0.00604747 0.282492 -1.44352 -0.0107727 157.554 -66.2258)" gradientUnits="objectBoundingBox" cx="8.05864309000" cy="16.08080223000" fx="8.05864309000" fy="16.08080223000" r="0.49231732000" spreadMethod="pad">
+   <stop stop-color="#ffb8ba" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#b6000f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient4" gradientTransform="matrix(-0.00604747 0.282492 -1.44352 -0.0107727 157.554 -66.2258)" gradientUnits="objectBoundingBox" cx="8.05864309000" cy="16.08080223000" fx="8.05864309000" fy="16.08080223000" r="0.49231732000" spreadMethod="pad">
+   <stop stop-color="#ffb8ba" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#b6000f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient5" gradientTransform="matrix(-0.00153567 0.10239 -0.366561 -0.00390459 40.0087 -24.0038)" gradientUnits="objectBoundingBox" cx="31.73495497000" cy="44.36664470000" fx="31.73495497000" fy="44.36664470000" r="1.89711757000" spreadMethod="pad">
+   <stop stop-color="#c09495" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#630008" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient6" gradientTransform="matrix(-0.00604747 0.282492 -1.44352 -0.0107727 157.554 -66.2258)" gradientUnits="objectBoundingBox" cx="8.05864309000" cy="16.08080223000" fx="8.05864309000" fy="16.08080223000" r="0.49231732000" spreadMethod="pad">
+   <stop stop-color="#ffb8ba" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#b6000f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient7" gradientTransform="matrix(-0.00153567 0.10239 -0.366561 -0.00390459 40.0087 -24.0038)" gradientUnits="objectBoundingBox" cx="31.73495497000" cy="44.36664470000" fx="31.73495497000" fy="44.36664470000" r="1.89711757000" spreadMethod="pad">
+   <stop stop-color="#c09495" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#630008" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="bodyRed" transform="translate(-2.625, -2.55403)" fill="none">
+   <rect id="rect4397" transform="translate(6.66832, 30.4655)" fill="url(#gradient0)" stroke="#550000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="16.90537280000pt" height="3.57356800000pt" rx="2.20206432000pt" ry="1.78678400000pt"/>
+   <rect id="rect4399" transform="translate(6.66832, 26.2993)" fill="url(#gradient1)" stroke="#550000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="16.90537280000pt" height="3.57356800000pt" rx="2.20206432000pt" ry="1.78678400000pt"/>
+   <rect id="rect4401" transform="translate(6.66832, 22.0029)" fill="url(#gradient2)" stroke="#550000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="16.90537280000pt" height="3.57356800000pt" rx="2.20206432000pt" ry="1.78678400000pt"/>
+   <rect id="rect4393" transform="translate(2.625, 17.975)" fill="url(#gradient3)" stroke="#550000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="24.08435040000pt" height="5.09110720000pt" rx="3.13718528000pt" ry="2.54555360000pt"/>
+   <rect id="rect4389" transform="translate(2.625, 12.0396)" fill="url(#gradient4)" stroke="#550000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="24.08435040000pt" height="5.09110720000pt" rx="3.13718528000pt" ry="2.54555360000pt"/>
+   <rect id="rect4424" transform="translate(13.5166, 4.70532)" fill="url(#gradient5)" stroke="#550000" stroke-width="0.10805324000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="6.11588024000pt" height="1.84528464000pt" rx="0.79664388000pt" ry="0.92264232000pt"/>
+   <rect id="rect4367" transform="translate(2.625, 5.91874)" fill="url(#gradient6)" stroke="#550000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="24.08435040000pt" height="5.09110720000pt" rx="3.13718528000pt" ry="2.54555360000pt"/>
+   <path id="path4416" transform="translate(8.23672, 5.80083)" fill="none" stroke="#602225" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.06667 18.1054C-0.780854 16.3185 0.142906 12.7746 1.06667 12.3014C-0.189084 11.2347 -0.158101 7.37706 1.06667 6.32198C0.142906 5.89595 -0.780854 1.33919 1.06667 0"/>
+   <path id="path4418" transform="translate(25.7709, 5.80083)" fill="none" stroke="#602225" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 18.1054C1.84752 16.3185 0.92376 12.7746 0 12.3014C1.25575 11.2347 1.22477 7.37706 0 6.32198C0.92376 5.89595 1.84752 1.33919 0 0"/>
+   <path id="path4420" transform="translate(8.49484, 6.05895)" fill="none" stroke="#ff8080" stroke-width="0.25237074000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M1.15913 18.5377C-0.848548 16.7082 0.155298 13.0796 1.15913 12.5952C-0.205478 11.503 -0.171813 7.55322 1.15913 6.47295C0.155298 6.03676 -0.848548 1.37118 1.15913 0"/>
+   <path id="path4422" transform="translate(25.5037, 6.05895)" fill="none" stroke="#ff8080" stroke-width="0.25237074000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 18.5377C2.00768 16.7082 1.00384 13.0796 0 12.5952C1.36461 11.503 1.33094 7.55322 0 6.47295C1.00384 6.03676 2.00768 1.37118 0 0"/>
+   <rect id="rect4426" transform="translate(13.5166, 2.55403)" fill="url(#gradient7)" stroke="#550000" stroke-width="0.10805324000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="6.11588024000pt" height="1.84528464000pt" rx="0.79664388000pt" ry="0.92264232000pt"/>
+  </g>
+ </g>
+</svg>

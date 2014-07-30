@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.5906pt" height="10.2047pt">
+<defs>
+  <linearGradient id="gradient0" gradientTransform="translate(-107.469, -61.947)" gradientUnits="objectBoundingBox" x1="5.94230761000" y1="18.28197567000" x2="6.43589687000" y2="18.21303880000" spreadMethod="reflect">
+   <stop stop-color="#eeeeee" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient1" gradientTransform="matrix(1 0 0 0.196466 -107.469 -10.7502)" gradientUnits="objectBoundingBox" cx="6.03525602000" cy="16.79539402000" fx="6.03525602000" fy="16.79539402000" r="0.49803634000" spreadMethod="pad">
+   <stop stop-color="#eeeeee" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#323232" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(1 0 0 0.697052 -109.661 -36.3365)" gradientUnits="objectBoundingBox" cx="7.88330179000" cy="5.75184716000" fx="7.88330179000" fy="5.75184716000" r="0.41831147000" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ababab" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="layer0">
+  <g id="headDome" transform="translate(-2.625, -2.625)" fill="none">
+   <path id="path3055" transform="translate(2.625, 12.0205)" fill="url(#gradient0)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M19.4268 1.68024C19.4291 2.60809 15.0796 3.36047 9.71338 3.36047C4.34718 3.36047 -0.0023344 2.60809 9.39976e-07 1.68024C-0.0023344 0.752386 4.34718 0 9.71338 0C15.0796 0 19.4291 0.752386 19.4268 1.68024Z"/>
+   <path id="path3059" transform="translate(2.68642, 11.4675)" fill="url(#gradient1)" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M19.4268 1.68024C19.4291 2.60809 15.0796 3.36047 9.71338 3.36047C4.34718 3.36047 -0.0023344 2.60809 9.39976e-07 1.68024C-0.0023344 0.752386 4.34718 0 9.71338 0C15.0796 0 19.4291 0.752386 19.4268 1.68024Z"/>
+   <path id="path3837" transform="translate(4.83496, 4.30886)" fill="url(#gradient2)" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0.00111469 8.5636C-0.143219 -2.90299 13.7768 -2.82632 14.0142 8.62497C10.6175 10.7724 2.26473 10.3161 0.00111469 8.5636Z"/>
+   <rect id="rect3849" transform="translate(3.78082, 9.05505)" fill="#999999" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.47187316393pt" height="2.42206504063pt" rx="0.52227870473pt" ry="1.16510600157pt"/>
+   <rect id="rect3851" transform="translate(18.3809, 8.87696)" fill="#999999" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" width="1.47187316393pt" height="2.42206504063pt" rx="0.52227870473pt" ry="1.16510600157pt"/>
+   <path id="path3853" transform="translate(3.89952, 9.23214)" fill="#cccccc" d="M0.531626 1.46204C0.531738 2.26932 0.412696 2.92407 0.265813 2.92407C0.11893 2.92407 -0.000111295 2.26932 7.80853e-08 1.46204C-0.000111295 0.654754 0.11893 0 0.265813 0C0.412696 0 0.531738 0.654754 0.531626 1.46204Z"/>
+   <path id="path3855" transform="translate(19.2386, 9.04672)" fill="#cccccc" d="M0.531626 1.46204C0.531738 2.26932 0.412696 2.92407 0.265813 2.92407C0.11893 2.92407 -0.000111295 2.26932 7.80853e-08 1.46204C-0.000111295 0.654754 0.11893 0 0.265813 0C0.412696 0 0.531738 0.654754 0.531626 1.46204Z"/>
+   <path id="path3857" transform="translate(4.66619, 2.625)" fill="none" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 6.35035L0 0"/>
+   <path id="path3859" transform="translate(19.2175, 2.81041)" fill="none" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 6.07223L0 0"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5.6693pt" height="18.7087pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="matrix(9.73119e-07 1.37414 -0.584576 5.70952e-07 62.8849 -77.1947)" gradientUnits="objectBoundingBox" cx="11.41031914000" cy="16.28637329000" fx="11.41031914000" fy="16.28637329000" r="0.39441271000" spreadMethod="pad">
+   <stop stop-color="#ff1c00" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ff1c00" offset="0.42934400000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#f5fb12" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient1" gradientTransform="translate(-40.5832, -87.9695)" gradientUnits="objectBoundingBox" x1="5.73943582000" y1="5.42084979000" x2="6.42955285000" y2="5.42084979000" spreadMethod="reflect">
+   <stop stop-color="#00b8ff" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#00114f" offset="1.00000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+ </defs>
+<g id="layer0">
+  <g id="rocket1" transform="translate(-2.625, -2.62004)" fill="none">
+   <path id="path6536" transform="matrix(-1 0 0 1 9.25421 19.542)" fill="url(#gradient0)" fill-rule="evenodd" d="M0.822233 0.190115C0.802005 0.720426 -0.131997 1.93154 0.0158621 4.20685C0.538213 3.67013 0.489495 3.89051 0.741868 3.29583C0.882556 4.19164 0.941207 4.89701 1.37924 5.06971C1.57215 4.34853 1.79247 3.9362 2.08817 4.37263C1.72904 6.15891 2.28203 5.86363 2.44263 6.46388C2.83823 5.92786 3.39231 5.52406 3.20219 4.49936C3.73896 4.84308 3.79612 5.15358 4.1704 5.8331C4.84252 4.7575 4.03513 3.35842 4.11365 2.59822L4.8117 3.82137C5.05546 1.65074 3.99178 1.27726 3.86047 0Z"/>
+   <path id="path6526" transform="matrix(-1 0 0 1 9.71163 2.62004)" fill="url(#gradient1)" fill-rule="evenodd" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M5.0186 0C2.50069 0.742269 0.217096 1.52534 0 4.41109L0 16.6557L0.742839 18.0206C2.01924 18.2857 3.29714 18.5476 4.94691 18.0206L5.91285 16.8188L5.91285 6.54058C5.7786 5.93076 6.50591 5.51335 7.00715 5.37975C7.17943 3.20942 7.2759 0.716911 5.0186 0Z"/>
+   <path id="path6532" transform="matrix(-1 0 0 1 8.92644 18.918)" fill="none" stroke="#000000" stroke-width="0.25000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0C1.63628 0.805286 4.43131 0.10131 4.43131 0.10131"/>
+  </g>
+ </g>
+</svg>
